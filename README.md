@@ -1,1 +1,1 @@
-# git-lesson-day-two
+# Git Lesson Day 2
